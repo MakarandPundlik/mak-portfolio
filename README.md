@@ -3,7 +3,7 @@
 <li>Clone this repo using:
 
 ```$xslt
-git clone https://github.com/pranjal2410/pranjal2410-portfolio.git
+git clone https://github.com/MakarandPundlik/mak-portfolio.git
 ```
 
 <li>Install the dependencies using:
