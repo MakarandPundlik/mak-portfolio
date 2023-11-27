@@ -9,7 +9,7 @@ git clone https://github.com/MakarandPundlik/mak-portfolio.git
 <li>Install the dependencies using:
 
 ```$xslt
-yarn install
+npm install
 ```
 
 <li>Then run the development server:
