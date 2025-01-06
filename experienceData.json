@@ -1,46 +1,45 @@
 {
   "experience": [
     {
-      "organization": "PICT IEEE Student Branch (PISB)",
-      "role": "Technical Head & Event Head",
-      "type": "Member",
-      "startDate": "February 2019",
-      "endDate": "Present",
-      "url": "https://www.linkedin.com/company/pisbieee/",
+      "organization": "NICE Ltd",
+      "role": "Software Engineer",
+      "startDate": "July 2022",
+      "endDate": "July 2024",
+      "url": "https://www.nice.com/",
       "image": {
-        "src": "/organization-pisb.jpeg",
-        "width": 200,
+        "src": "/nice.gif",
+        "width": 300,
         "height": 200
       },
       "location": "Pune, India"
     },
     {
-      "organization": "Mindkosh AI",
-      "role": "Backend Developer Intern",
+      "organization": "IEC Lab",
+      "role": "Research Intern",
       "type": "Intern",
-      "startDate": "March 2021",
-      "endDate": "June 2021",
-      "url": "https://www.linkedin.com/company/mindkosh/about/",
+      "startDate": "January 2025",
+      "endDate": "May 2025",
+      "url": "https://www.ieclab.org/",
       "image": {
-        "src": "/organization-mindkosh.jpeg",
+        "src": "/ieclab.jpg",
         "width": 200,
         "height": 200
       },
-      "location": "New Delhi, India"
+      "location": "Raleigh, North Carolina, USA"
     },
     {
-      "organization": "Nonceblox Pvt. Ltd.",
-      "role": "Full Stack Developer Intern",
+      "organization": "IMATMI - Art of Success",
+      "role": "Project Intern",
       "type": "Intern",
       "startDate": "August 2021",
-      "endDate": "December 2021",
-      "url": "https://www.linkedin.com/company/nonceblox/about/",
+      "endDate": "March 2022",
+      "url": "https://imatmi.com/",
       "image": {
-        "src": "/organisation-nonceblox.jpg",
+        "src": "/imatmi.png",
         "width": 200,
         "height": 200
       },
-      "location": "New Delhi, India"
+      "location": "New Jersey, USA"
     }
   ]
 }
