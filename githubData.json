@@ -1,20 +1,19 @@
 {
   "projects": [
     {
-      "name": "VITAlumni",
-      "description": "A portal on which the staff and passed out students of Vishwakarma Institute of Technology, Pune can register themselves with their email id and receive updates from other users and college",
-      "startDate": "November 2020",
-      "endDate": "December 2020",
-      "project_link": "",
+      "name": "PackTravel",
+      "description": "PackTravel is a web and mobile application designed to facilitate off-campus travel for university students. It aims to bridge the gap between on-campus transportation (e.g., Wolfline) and the need for longer-distance or flexible travel options by providing access to cabs, rental cars, and ride-sharing services. The platform ensures affordability, convenience, and user-friendly accessibility for students without personal vehicles.",
+      "startDate": "September 2024",
+      "endDate": "October 2024",
+      "project_link": "https://github.com/GradHackersGuild/PackTravel-Old",
       "techStack": {
-        "Languages": ["javascript", "python"],
-        "Frontend Technologies": ["react"],
+        "Languages": ["python", "html5", "css3", "javascript"],
         "Backend Technologies": ["django"],
-        "Database Engines": ["sqlite"]
+        "Database Engines": ["mongodb"]
       }
     },
     {
-      "name": "SysAdmin",
+      "name": "Movie Mood",
       "description": "Run or Schedule bash/cmd scripts on your machine remotely using REST APIs. Compatible with Ubuntu and Windows",
       "startDate": "January 2021",
       "endDate": "February 2021",

@@ -18,7 +18,7 @@ import { ToggleButtonGroup, ToggleButton } from "@material-ui/lab";
 import { Brightness4, Brightness7 } from "@material-ui/icons";
 import { Component, useContext, useState } from "react";
 import { ThemeContext } from "../components/theme";
-// import simpleIcons from "simple-icons";
+import simpleIcons from "simple-icons";
 import { data, titles } from "../initial.json";
 import { techStack } from "../techStack.json";
 import Initial from "../components/Initial";
@@ -42,7 +42,7 @@ export async function getStaticProps() {
     return {
       alt: alt,
       url: url,
-      // ...getIconData(slug)
+      ...getIconData(slug),
     };
   });
 
@@ -51,7 +51,7 @@ export async function getStaticProps() {
     obj[key] = techStack[key].map(({ alt, slug }, i) => {
       return {
         alt: alt,
-        // ...getIconData(slug),
+        ...getIconData(slug),
       };
     });
   });
@@ -62,8 +62,8 @@ export async function getStaticProps() {
       projectTechStack[key] = [];
       project.techStack[key].map((tool) => {
         projectTechStack[key].push({
-          //   alt: getIconData(tool).title,
-          //   ...getIconData(tool),
+          alt: getIconData(tool).title,
+          ...getIconData(tool),
         });
       });
     });
