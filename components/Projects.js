@@ -54,9 +54,9 @@ const Projects = ({ projects }) => {
       container
       direction="row"
       justify="center"
-      style={{ maxWidth: 800 }}
+      style={{ maxWidth: 1200 }}
     >
-      <Grid item xs={12}>
+      <Grid item xl={12}>
         <motion.h3
           className={classes.title}
           initial={{

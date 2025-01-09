@@ -2,8 +2,16 @@
   "techStack": {
     "Languages": [
       {
-        "alt": "C++",
-        "slug": "cplusplus"
+        "alt": "JavaScript",
+        "slug": "javascript"
+      },
+      {
+        "alt": "Typescript",
+        "slug": "typescript"
+      },
+      {
+        "alt": "Ruby",
+        "slug": "ruby"
       },
       {
         "alt": "Java",
@@ -12,10 +20,6 @@
       {
         "alt": "Python",
         "slug": "python"
-      },
-      {
-        "alt": "JavaScript",
-        "slug": "javascript"
       },
       {
         "alt": "HTML5",
@@ -27,10 +31,6 @@
       }
     ],
     "Backend Technologies": [
-      {
-        "alt": "Django",
-        "slug": "django"
-      },
       {
         "alt": "Node.js",
         "slug": "node-dot-js"
@@ -44,22 +44,22 @@
         "slug": "flask"
       },
       {
-        "alt": "FastAPI",
-        "slug": "fastapi"
+        "alt": "Django",
+        "slug": "django"
       },
       {
-        "alt": "NestJS",
-        "slug": "nestjs"
+        "alt": "Ruby on Rails",
+        "slug": "rubyonrails"
       }
     ],
     "Frontend Technologies": [
       {
-        "alt": "React",
-        "slug": "react"
+        "alt": "Angular",
+        "slug": "angularjs"
       },
       {
-        "alt": "Next.js",
-        "slug": "next-dot-js"
+        "alt": "React",
+        "slug": "react"
       },
       {
         "alt": "Material-UI",
@@ -68,24 +68,20 @@
       {
         "alt": "Bootstrap",
         "slug": "bootstrap"
-      },
-      {
-        "alt": "Framer",
-        "slug": "framer"
       }
     ],
     "Database Engines": [
       {
-        "alt": "MySQL",
-        "slug": "mysql"
-      },
-      {
-        "alt": "Firebase",
-        "slug": "firebase"
+        "alt": "Dynamodb",
+        "slug": "amazondynamodb"
       },
       {
         "alt": "MongoDB",
         "slug": "mongodb"
+      },
+      {
+        "alt": "MySQL",
+        "slug": "mysql"
       },
       {
         "alt": "SQLite",
@@ -98,32 +94,20 @@
     ],
     "Cloud & DevOps": [
       {
-        "alt": "Azure DevOps",
-        "slug": "azuredevops"
-      },
-      {
-        "alt": "Google Cloud",
-        "slug": "googlecloud"
-      },
-      {
         "alt": "Amazon AWS",
         "slug": "amazonaws"
+      },
+      {
+        "alt": "Azure DevOps",
+        "slug": "azuredevops"
       },
       {
         "alt": "Heroku",
         "slug": "heroku"
       },
       {
-        "alt": "Netlify",
-        "slug": "netlify"
-      },
-      {
-        "alt": "Vercel",
-        "slug": "vercel"
-      },
-      {
-        "alt": "NGINX",
-        "slug": "nginx"
+        "alt": "Jenkins",
+        "slug": "jenkins"
       },
       {
         "alt": "Docker",

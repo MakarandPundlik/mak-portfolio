@@ -1,6 +1,18 @@
 {
   "projects": [
     {
+      "name": "Open Source Contribution",
+      "description": "Contributed to an open-source Ruby on Rails project, enhancing the TA assignment workflow by reimplementing and optimizing the 'Add TA to Course' feature, improving usability and scalabilit",
+      "startDate": "November 2024",
+      "endDate": "December 2024",
+      "project_link": "https://github.com/expertiza/reimplementation-front-end/pull/72",
+      "techStack": {
+        "Languages": ["ruby", "typescript"],
+        "Backend Technologies": ["rubyonrails", "react"],
+        "Database Engines": ["mysql"]
+      }
+    },
+    {
       "name": "PackTravel",
       "description": "PackTravel is a web and mobile application designed to facilitate off-campus travel for university students. It aims to bridge the gap between on-campus transportation (e.g., Wolfline) and the need for longer-distance or flexible travel options by providing access to cabs, rental cars, and ride-sharing services. The platform ensures affordability, convenience, and user-friendly accessibility for students without personal vehicles.",
       "startDate": "September 2024",
@@ -14,41 +26,54 @@
     },
     {
       "name": "Movie Mood",
-      "description": "Run or Schedule bash/cmd scripts on your machine remotely using REST APIs. Compatible with Ubuntu and Windows",
-      "startDate": "January 2021",
-      "endDate": "February 2021",
-      "project_link": "",
+      "description": "Movie Mood is a personalized movie recommendation platform that matches suggestions to your mood, eliminating endless scrolling. Powered by an advanced Mood-Based Recommendation Algorithm, it brings the perfect movie to your screen instantly.",
+      "startDate": "October 2024",
+      "endDate": "Noevember 2024",
+      "project_link": "https://github.com/GradHackersGuild/CSC-510-Movie-Mood",
       "techStack": {
-        "Languages": ["python"],
+        "Languages": ["python", "html5", "css3", "javascript"],
         "Frontend Technologies": [],
-        "Backend Technologies": ["FastAPI"],
+        "Backend Technologies": ["flask"],
+        "Database Engines": ["sqlite"]
+      }
+    },
+    {
+      "name": "Blog Post",
+      "description": "The MERN Stack Blogging Platform is a full-stack web application that allows users to create, read, update, delete (CRUD) blogs and add comments on blogs written by other users. The application is built to deliver a scalable, modern, and responsive user experience.",
+      "startDate": "April 2020",
+      "endDate": "May 2020",
+      "project_link": "https://github.com/MakarandPundlik/BlogPost",
+      "techStack": {
+        "Languages": ["javascript"],
+        "Frontend Technologies": ["react", "bootstrap"],
+        "Backend Technologies": ["node.js", "express"],
+        "Database Engines": ["mongodb"]
+      }
+    },
+    {
+      "name": "Covid19 Tracker",
+      "description": "The Live COVID-19 Tracker is a web application designed to provide real-time visualization of COVID-19 cases across the globe. The application uses Leaflet.js for interactive mapping, Chart.js for data visualization through charts, and fetches reliable data directly from the World Health Organization (WHO) API or dataset.",
+      "startDate": "December 2020",
+      "endDate": "December 2020",
+      "project_link": "https://github.com/MakarandPundlik/covidtracker",
+      "techStack": {
+        "Languages": ["javascript"],
+        "Frontend Technologies": ["react", "leaflet", "material-ui"],
+        "Backend Technologies": [],
         "Database Engines": []
       }
     },
     {
-      "name": "Clash",
-      "description": "A technical MCQ platform developed for an event in the annual techfest Credenz organised by PICT IEEE Student Branch",
-      "startDate": "July 2019",
-      "endDate": "September 2019",
+      "name": "IPR Portal",
+      "description": "The Intellectual Property Marketplace is a web application designed to enable users to buy, sell, and bid on intellectual property (IP) assets such as patents, trademarks, copyrights, and trade secrets. The platform serves as a centralized hub for IP transactions, ensuring secure, transparent, and efficient interactions between buyers, sellers, and bidders.",
+      "startDate": "August 2020",
+      "endDate": "October 2020",
       "project_link": "",
       "techStack": {
-        "Languages": ["python", "html5", "css3", "javascript"],
-        "Frontend Technologies": ["bootstrap"],
-        "Backend Technologies": ["django"],
-        "Database Engines": ["sqlite"]
-      }
-    },
-    {
-      "name": "Reverse Coding",
-      "description": "A technical integer type answer platform developed for an event in the annual techfest Credenz organised by PICT IEEE Student Branch",
-      "startDate": "July 2019",
-      "endDate": "September 2019",
-      "project_link": "",
-      "techStack": {
-        "Languages": ["python", "html5", "css3", "javascript"],
-        "Frontend Technologies": ["bootstrap"],
-        "Backend Technologies": ["django"],
-        "Database Engines": ["sqlite"]
+        "Languages": ["javascript"],
+        "Frontend Technologies": ["react", "material-ui"],
+        "Backend Technologies": [],
+        "Database Engines": []
       }
     }
   ]
